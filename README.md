@@ -106,7 +106,8 @@ git push origin fix/your-descriptive-branch-name
 
 # 9. Open a Pull Request on GitHub
 ```
-
+# 10. Check the PR status and respond to review feedback
+# Wait for CI checks to complete and address any reviewer comments.
 ---
 
 ## 🔖 Understanding GitHub Issue Labels
