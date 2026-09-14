@@ -108,6 +108,8 @@ git push origin fix/your-descriptive-branch-name
 ```
 # 10. Check the PR status and respond to review feedback
 # Wait for CI checks to complete and address any reviewer comments.
+
+# 11. Keep your branch focused on one contribution
 ---
 
 ## 🔖 Understanding GitHub Issue Labels
